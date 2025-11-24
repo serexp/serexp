@@ -8,9 +8,9 @@
 ---
 
 ### Current Focus
-- EFI implants in C  
-- NVRAM-based persistence tooling  
-- Anti-static-analysis PoC on iOS dyld  
+- EFI implants in C
+- CTFs
+- NVRAM-based persistence tooling   
 
 ---
 <div align="center">
@@ -31,7 +31,7 @@
   ### Domains
   
 #### iOS kernel research • Cryptanalysis • Reverse Engineering • Exploitation • Vulnerability Research  
-##### Malware Development • Algorithm Design • Embedded Systems
+##### Malware Development • Embedded Systems
   </div>
 
 ---
