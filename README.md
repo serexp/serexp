@@ -1,7 +1,7 @@
 <pre>
   ════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════  
 
-                    Polymath ▪ Red-team ▪ Cryptographer ▪ Adversarial-ML engineer ▪ Malware R&D
+                    Polymath ▪ Red-team ▪ Cryptographer ▪ Adversarial-ML engineer ▪ Offensive R&D
 
 
                                            PUBLISHED RESEARCH
@@ -44,7 +44,7 @@
                    |                                |     DOMAINS     |                               | 
                    ____________________________________________________________________________________
                    |         Cryptanalysis • Reverse Engineering • Exploitation • Vuln research       | 
-                   |        Malware development • Algorithm Design • Graphical Design • Embedded dev  |
+                   |      Offensive development • Algorithm Design • Graphical Design • Embedded dev  |
                    |==================================================================================|
   
                 /========================================================================================\
