@@ -1,7 +1,7 @@
 <pre>
   ════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════  
 
-                    Polymath ▪ Red-team ▪ Cryptographer ▪ Adversarial-ML engineer ▪ Offensive R&D
+                    CPU engineer ▪ Red-team ▪ Cryptographer ▪ Adversarial-ML engineer ▪ Offensive R&D
 
 
                                            PUBLISHED RESEARCH
@@ -19,8 +19,8 @@
                                     |        EFI implants in C            |                    |        LANGUAGES      |
         -^^,--,~                    | Airgapped network-aware implant R&D |                    |_______________________|
                                     |  NVRAM-based persistence mechanisms | ================== | C, Assembly, Rust, Go,|
-                                    |      SOTA implant development       | <3 <3 <3 <3 <3 <3  |    .NET, Java, Go     |
-                                    |    LLVM Obfuscation for RT evasion  | ================== |_______________________|
+                                    |      CPU engineering & development  | <3 <3 <3 <3 <3 <3  |    .NET, Java, Go     |
+                                    |    LLVM Obfuscation for evasion     | ================== |_______________________|
                                     ———————————————————————————————————————
                                                                               |\      _,,,---,,_
                                                                         ZZZzz /,`.-'`'    -.  ;-;;,_
@@ -32,10 +32,12 @@
          ╔════════════════════════════════════════════════════════════════════════════════════════════════════╗
          ║                                           SELECTED PROJECTS                                        ║
          ╠════════════╤════════╤══════════════════════════════════════════════════════════════════════════════╣
-         ║  <a href="https://github.com/serexp/dylibwalking">DylibWalk</a> │ C      │ Anti-static analysis PoC for runtime function retrieval for iOS malware      ║
+         ║ <a href="https://github.com/serexp/dylibwalking">DylibWalk</a>  │ C      │ Anti-static analysis PoC for runtime function retrieval for iOS malware      ║
          ║            │ ASM    │                                                                              ║
-         ║————————————┼————————┼——————————————————————————————————————————————————————————————————————————————║
-         ║ Phosphorus │ C      │ Toolchain to dump & persist implants inside NVRAM variables [coming soon]    ║
+         ║————————————┼————————┼——————————————————————————————————————————————————————————————————————————————║_________________
+         ║ Sevastopol │   C    │ User-mode RISC-V emulator and virtual CPU implementation for Windows & Linux. [In progress :)] ║
+         ║————————————┼————————┼——————————————————————————————————————————————————————————————————————————————║_________________
+         ║ Pandragon  │   C    │ Most advanced and evasive C2 for Windows to date.   [Finished, not public]   ║
          ║————————————┼————————┼——————————————————————————————————————————————————————————————————————————————║
          ║  <a href="https://github.com/Whispergate/berlin">Berlin</a>    │ C++    │ Cross-platform CPU-based virtual machine detection framework                 ║
          ╚════════════╧════════╧══════════════════════════════════════════════════════════════════════════════╝
@@ -46,7 +48,8 @@
                    |         Cryptanalysis • Reverse Engineering • Exploitation • Vuln research       | 
                    |      Offensive development • Algorithm Design • Graphical Design • Embedded dev  |
                    |==================================================================================|
-  
+
+                                      
                 /========================================================================================\
               < |               “Whatver I've done, I did it for love. I did it for fun."                | >
                 \========================================================================================/
