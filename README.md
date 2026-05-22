@@ -32,14 +32,16 @@
          ╔════════════════════════════════════════════════════════════════════════════════════════════════════╗
          ║                                           SELECTED PROJECTS                                        ║
          ╠════════════╤════════╤══════════════════════════════════════════════════════════════════════════════╣
-         ║ <a href="https://github.com/serexp/dylibwalking">DylibWalk</a>  │ C      │ Anti-static analysis PoC for runtime function retrieval for iOS malware      ║
-         ║            │ ASM    │                                                                              ║
+         ║ <a href="https://github.com/serexp/dylibwalking">DylibWalk</a>  │   C    │ Anti-static analysis PoC for runtime function retrieval for iOS malware      ║
+         ║            │  ASM   │                                                                              ║
+         ╠════════════╤════════╤══════════════════════════════════════════════════════════════════════════════╣
+         ║ <a href="https://github.com/serexp/nvwrite">nvwrite</a>    │   C    │ Cross-platform NVRAM variables access library for embedded-like systems      ║
          ║————————————┼————————┼——————————————————————————————————————————————————————————————————————————————║_________________
          ║ Sevastopol │   C    │ User-mode RISC-V emulator and virtual CPU implementation for Windows & Linux. [In progress :)] ║
          ║————————————┼————————┼——————————————————————————————————————————————————————————————————————————————║_________________
          ║ Pandragon  │   C    │ Most advanced and evasive C2 for Windows to date.   [Finished, not public]   ║
          ║————————————┼————————┼——————————————————————————————————————————————————————————————————————————————║
-         ║  <a href="https://github.com/Whispergate/berlin">Berlin</a>    │ C++    │ Cross-platform CPU-based virtual machine detection framework                 ║
+         ║ <a href="https://github.com/Whispergate/berlin">Berlin</a>     │  C++   │ Cross-platform CPU-based virtual machine detection framework                 ║
          ╚════════════╧════════╧══════════════════════════════════════════════════════════════════════════════╝
 
                    ____________________________________________________________________________________   
